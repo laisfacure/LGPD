@@ -1,0 +1,10 @@
+LGPD e Data Centers no Brasil:
+
+Os data centers brasileiros devem cumprir os requisitos da LGPD, garantindo a segurança e a conformidade dos dados pessoais armazenados.
+
+b. Formatos de Arquivos de Dados:
+Proprietários: Exemplos incluem Excel (.xls, .xlsx), Photoshop (.psd), Oracle Database (.db)
+Abertos: Exemplos incluem CSV, JSON, XML
+
+Implicações para Dados Públicos:
+Formatos abertos são preferíveis para dados públicos devido à sua acessibilidade e interoperabilidade, enquanto formatos proprietários podem criar barreiras de acesso e colaboração.
